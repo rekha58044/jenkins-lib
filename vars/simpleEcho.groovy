@@ -1,3 +1,3 @@
 def call (){
-  echo "Jenkins shared library project"
+  echo "Jenkins shared library project-2"
 }
